@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-20T10:19:18 IST" name="Default suite" finished-at="2026-01-20T10:19:18 IST" duration-ms="55">
+  <suite started-at="2026-02-02T16:12:48 IST" name="Default suite" finished-at="2026-02-02T16:12:49 IST" duration-ms="380">
     <groups>
     </groups>
-    <test started-at="2026-01-20T10:19:18 IST" name="Default test" finished-at="2026-01-20T10:19:18 IST" duration-ms="55">
-      <class name="automation.jenkinspractice.LoginTest">
-        <test-method signature="login()[pri:0, instance:automation.jenkinspractice.LoginTest@619713e5]" started-at="2026-01-20T10:19:18 IST" name="login" finished-at="2026-01-20T10:19:18 IST" duration-ms="11" status="PASS">
+    <test started-at="2026-02-02T16:12:48 IST" name="Default test" finished-at="2026-02-02T16:12:49 IST" duration-ms="380">
+      <class name="automation.jenkinspractice.AllureTest">
+        <test-method signature="validLoginTest()[pri:0, instance:automation.jenkinspractice.AllureTest@606e4010]" started-at="2026-02-02T16:12:49 IST" name="validLoginTest" finished-at="2026-02-02T16:12:49 IST" duration-ms="260" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
-      </class> <!-- automation.jenkinspractice.LoginTest -->
+        </test-method> <!-- validLoginTest -->
+      </class> <!-- automation.jenkinspractice.AllureTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
